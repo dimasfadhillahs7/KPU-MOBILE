@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#005715</color>
+        <color name="colorPrimary">#424242</color> <!-- Dark Gray -->
+        <color name="colorPrimaryVariant">#212121</color> <!-- Very Dark Gray -->
+        <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+        <color name="colorSecondary">#757575</color> <!-- Medium Gray -->
+        <color name="colorOnSecondary">#FFFFFF</color> <!-- White -->
+        <color name="colorBackground">#FAFAFA</color> <!-- Very Light Gray -->
+        <color name="colorSurface">#FFFFFF</color> <!-- White -->
+        <color name="colorOnBackground">#000000</color> <!-- Black -->
+        <color name="colorOnSurface">#000000</color> <!-- Black -->
+        <color name="colorError">#D32F2F</color> <!-- Red -->
+        <color name="colorOnError">#FFFFFF</color> <!-- White -->
+
+
+</resources>
